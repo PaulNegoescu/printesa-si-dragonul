@@ -1,0 +1,11 @@
+.splash {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: url("./splash.webp") center center no-repeat;
+  height: 700px;
+}
+
+.splash img {
+  height: 70%;
+}
